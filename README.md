@@ -1,5 +1,4 @@
 # Diabetes-Prediction-System
-# 🩺 Diabetes Prediction System
 
 An AI-powered web-based **Diabetes Prediction System** developed using **Python**, **Django**, and **Machine Learning**. This project helps predict whether a patient is likely to have diabetes or not based on several diagnostic medical features.
 
