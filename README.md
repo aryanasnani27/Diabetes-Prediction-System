@@ -49,7 +49,7 @@ With proper training, they can assist in early detection and intervention, impro
 
 ```bash
 # 1. Clone this repository
-git clone https://github.com/your-username/diabetes-prediction-system.git
+git clone https://github.com/aryanasnani27/diabetes-prediction-system.git
 
 # 2. Navigate to the project directory
 cd diabetes-prediction-system/Deployment
